@@ -1,4 +1,4 @@
-## Hi, I'm Facundo 💻
+## Hi, I'm Facundo 📎
 
 - 🔭 I’m currently working on a credit card system withe Java and the mobile app with Kolin.
 - 🌱 I'm currently finishing my studies as a computer engineer.
