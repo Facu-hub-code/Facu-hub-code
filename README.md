@@ -1,59 +1,65 @@
 # 👋 Hola, soy Facundo Lorenzo 🇦🇷
-### Backend Engineer · Ex CTO · Product Builder
 
-Bienvenido a mi espacio de proyectos. Soy Ingeniero en Computación (casi recibido) con más de 7 años de experiencia construyendo productos digitales reales, desde sistemas internos hasta apps móviles en producción.
+### Backend & AI Engineer · Ex CTO · Product Builder
+
+Bienvenido a mi espacio de proyectos. Soy Ingeniero en Computación (casi recibido) con más de 7 años de experiencia creando productos digitales reales: desde ERPs y sistemas industriales hasta plataformas de IA y automatización que escalan internacionalmente.
 
 ---
 
 ## 🚀 Qué hago
 
-Actualmente me dedico a construir soluciones backend de forma freelance, con foco en:
+Hoy lidero una **consultora de AI & Backend** donde ayudo a **wholesalers y fleet operators** a optimizar sus operaciones con soluciones de IA y automatización.
+Mis focos:
 
-- APIs escalables y bien diseñadas
-- Automatizaciones y flujos asincrónicos (n8n, queues, webhooks)
-- Integraciones complejas entre sistemas
-- MVPs que realmente funcionan (no solo mockups)
+* **AI Assistants** para órdenes, soporte y procesos internos
+* **Automatización de flujos logísticos** (n8n, APIs, webhooks, queues)
+* **Optimización de rutas & predicción de demanda** con datos reales
+* **Integraciones complejas entre sistemas** (ERP, CRMs, apps móviles)
+* **MVPs funcionales** que generan ROI inmediato
 
 ---
 
 ## 🧠 Experiencia
 
-- 🧱 Fui CTO de [Clickie](https://clickie.com.ar), una startup LATAM donde lideré todo el stack técnico: app mobile, backend, pagos, automatizaciones, almacenamiento y APIs.  
-- 🔐 Desarrollé un sistema SIEM basado en Whazu en Docker y Kubernetes para empresas de telecomunicaciones en EE.UU.  
-- ⚙️ Trabajé en automatización industrial desarrollando sistemas MES para una empresa socia de Siemens.  
-- 📊 Procesé y visualicé grandes volúmenes de datos como analista para MetroGAS y YPF.  
-- 📦 Mantuve y evolucioné sistemas ERP en Java para PyMEs argentinas.
+* 🧱 Ex CTO de [Clickie](https://clickie.com.ar), startup LATAM acelerada por Emprelatam, donde lideré todo el stack: mobile, backend, pagos, infra y automatizaciones.
+* 🛒 Actualmente desarrollo **soluciones AI para wholesalers y distribuidores**, optimizando ventas y operaciones en LATAM, con miras a expandir a USA y Europa.
+* 🔐 Construí un **sistema SIEM** sobre Docker/Kubernetes para telcos en EE.UU.
+* ⚙️ Implementé **sistemas MES** para automatización industrial en una empresa socia de Siemens.
+* 📊 Analicé y visualicé grandes volúmenes de datos para MetroGAS y YPF.
+* 📦 Desarrollé y mantuve **ERPs en Java** para PyMEs argentinas.
 
 ---
 
 ## 🛠️ Stack técnico
 
-**Lenguajes:** Java, Python, JavaScript, SQL, C/C++, .NET  
-**Backend:** Node.js, .NET, REST APIs, arquitecturas limpias  
-**Infra:** Docker, Kubernetes, AWS, Azure  
-**Bases de datos:** PostgreSQL, Firestore, MySQL, MongoDB  
-**No-code/Low-code:** Adalo, Xano, n8n, Firebase  
-**Testing & Calidad:** TDD, Mocks, SOLID, patrones de diseño
+**Lenguajes:** Python, Java, JavaScript, SQL, .NET, C/C++
+**Backend & AI:** Node.js, REST APIs, arquitecturas limpias, agentes AI (OpenAI, SLMs)
+**Infra:** Docker, Kubernetes, AWS, Azure
+**Bases de datos:** PostgreSQL, MySQL, Firestore, MongoDB
+**No-code/Low-code:** Xano, n8n, Adalo, Firebase
+**Prácticas:** TDD, SOLID, patrones de diseño, automatización CI/CD
 
 ---
 
 ## 🎯 Hacia dónde voy
 
-Busco seguir creciendo como **Ingeniero Backend**, enfocándome en arquitectura de sistemas, calidad técnica y ownership de productos reales. Me entusiasma trabajar con equipos que valoren el impacto por sobre el ego, y donde construir sea más importante que hablar.
+Mi visión es crecer como **consultor internacional en AI aplicada a logística y distribución**, ayudando a mid-market en **EE. UU. y Europa** a:
+
+* Reducir costos de operación
+* Optimizar flujos logísticos
+* Escalar sin aumentar overhead humano
+
+Me motiva trabajar con empresas que busquen **impacto real, ROI medible y ejecución rápida**.
 
 ---
 
-> 📁 Podés ver algunos de mis repos públicos acá abajo, pero muchos proyectos están en privado por acuerdos de confidencialidad. Si querés conocer más, escribime.
+> 📁 Muchos de mis proyectos son privados por NDA, pero algunos repos abiertos están acá abajo. Si querés charlar sobre AI en logística, escribime 👇
 
 ---
 
 ## 📬 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/facundo-l/)  
-- [Calendly para reunión](https://calendly.com/faculoren7/30min)  
-- faculoren7@gmail.com  
-
----
-
-Gracias por pasar por acá. Si llegaste hasta el final, probablemente tengamos algo en común 😄
-
+* [LinkedIn](https://www.linkedin.com/in/facundo-l/)
+* [Calendly](https://calendly.com/faculoren7/30min)
+* [faculoren7@gmail.com](mailto:faculoren7@gmail.com)
+¿Querés que además te prepare una **versión en inglés** para tu GitHub (pensando en inversores/partners/clients de USA–EU), o preferís dejarlo en español y que LinkedIn sea el puente internacional?
